@@ -12,3 +12,4 @@ Se puede apreciar el errror relativo que existe y ademas los valores de cada ope
 
 ![](Imagen/Grafico.PNG)
 
+![](Imagen/Valores.PNG)
