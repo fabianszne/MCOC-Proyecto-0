@@ -8,3 +8,4 @@ A continuacion se muestran los resultados del analisis de la funcion cubica x**3
 Se puede apreciar el errror relativo que existe y ademas los valores de cada operacion en la siguiente imagen.
 
 
+![](Grafico.PNG)
